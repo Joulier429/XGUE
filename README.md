@@ -11,4 +11,4 @@ Ans:XGUE is a roguelike template I made with VBS, which follows the Do What the 
 Ans:Like many other computer games, it Use "a""s""w""d"to move ". That's all it can do.<br />
 
 3. And then?<br />
-Ans:That's it. I do this because I love making it. This little game took me about two days to make. I made it when I learn programing first time. In the end I hope you can learn something in it or enjoy it;)
+Ans:That's it. I do this because I love making it. This little game took me about two days to make. I created it when I learn programing first time. In the end I hope you can learn something in it or enjoy it;)
